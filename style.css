@@ -56,3 +56,28 @@ body {
     padding: 20px;
 
 }
+
+#spot-one {
+    background-image: url(Elements/Images/spot-1.jpeg);
+    background-position-y: 50%;
+    background-position-x: 50%;
+    background-size: 700px;
+    background-repeat: no-repeat;
+    %;
+}
+
+#spot-two {
+    background-image: url(Elements/Images/spot-2.jpg);
+    background-position-y: 50%;
+    background-position-x: 50%;
+    background-size: 700px;
+    background-repeat: no-repeat;
+}
+
+#spot-three {
+    background-image: url(Elements/Images/spot-3.jpeg);
+    background-position-y: 50%;
+    background-position-x: 50%;
+    background-size: 700px;
+    background-repeat: no-repeat;
+}
