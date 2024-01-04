@@ -39,3 +39,20 @@ body {
     background-position-x: 100%;
     background-position-y: 40%;
 }
+
+#intro-part {
+    display: flex;
+
+
+}
+
+.one-third {
+    width: 50%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    box-shadow: 10px 10px 10px 10px rgb(86, 83, 56);
+    padding: 20px;
+
+}
