@@ -15,6 +15,30 @@ body {
 
 }
 
+.eye-nav {
+    text-align: end;
+
+    margin-top: 20px;
+    margin-bottom: 100px;
+    background-color: rgba(53, 203, 118, 0.721);
+    padding-right: 150px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.eye-nav a {
+    text-decoration: none;
+    margin: 20px;
+    color: whitesmoke;
+}
+
+.eye-nav a:hover {
+    background-color: rgb(153, 245, 114);
+    padding: 15px;
+    color: black;
+}
+
+
 .half-width {
     width: 50%;
 
@@ -63,7 +87,7 @@ body {
     background-position-x: 50%;
     background-size: 700px;
     background-repeat: no-repeat;
-    %;
+
 }
 
 #spot-two {
