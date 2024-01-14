@@ -106,3 +106,10 @@ body {
     background-size: 700px;
     background-repeat: no-repeat;
 }
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
