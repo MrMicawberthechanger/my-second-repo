@@ -52,4 +52,36 @@
     color: black;
 }
 
-.search {}
+.destination {
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+.dest-choose {
+    display: flex;
+    margin-left: 350px;
+
+
+}
+
+.top-dest {
+    margin: 20px;
+    box-shadow: 10px 10px 10px 10px rgb(175, 120, 19);
+}
+
+.trend-dest {
+    margin: 20px;
+    box-shadow: 10px 10px 10px 10px rgb(92, 224, 229);
+}
+
+.food-dest {
+    margin: 20px;
+    box-shadow: 10px 10px 10px 10px rgb(217, 106, 182);
+}
+
+.nature-dest {
+    margin: 20px;
+    box-shadow: 10px 10px 10px 10px rgb(63, 95, 40);
+}
