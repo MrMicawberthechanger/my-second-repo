@@ -54,7 +54,7 @@
 
 .destination {
     text-align: center;
-    font-size: 20px;
+
 }
 
 
@@ -84,4 +84,37 @@
 .nature-dest {
     margin: 20px;
     box-shadow: 10px 10px 10px 10px rgb(63, 95, 40);
+}
+
+.wint-guide {
+
+    position: relative;
+    text-align: center;
+    color: rgb(4, 1, 1);
+    font-size: 20px;
+    margin: 80px;
+    border-radius: 20px;
+}
+
+.guide-text {
+    position: absolute;
+    bottom: 40px;
+    left: 450px;
+}
+
+.guide-btn {
+    text-decoration: none;
+    background-color: rgb(75, 59, 59);
+    color: white;
+    margin: 10px;
+    padding: 4px 10px;
+
+    border-radius: 10px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+
 }
