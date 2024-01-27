@@ -1,6 +1,24 @@
-.book-head {
-    display: flex;
-    margin-left: 400px;
+.page-tit {
+    margin-left: 180px;
+    margin-top: 40px;
+    font-size: 40px;
+}
+
+.fa-solid {
+    color: rgb(23, 226, 23);
+    font-size: 45px;
+}
+
+.blog-head {
+    background-image: url(Elements/Marayong-tong/banner.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    display: block;
+    background-size: 100% 100%;
+
 
 
 }
+
+.blog-ban {}
