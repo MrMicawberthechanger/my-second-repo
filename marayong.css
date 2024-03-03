@@ -1,24 +1,45 @@
-.page-tit {
-    margin-left: 180px;
-    margin-top: 40px;
-    font-size: 40px;
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-.fa-solid {
-    color: rgb(23, 226, 23);
-    font-size: 45px;
+* {
+    box-sizing: border-box;
 }
 
-.blog-head {
-    background-image: url(Elements/Marayong-tong/banner.jpg);
-    background-repeat: no-repeat;
-    position: relative;
+.bg-image {
+    /* Full height */
+    height: 50%;
+
+    /* Center and scale the image nicely */
     background-position: center;
-    display: block;
-    background-size: 100% 100%;
-
-
-
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.blog-ban {}
+/* Images used */
+.img1 {
+    background-image: url("Elements/Marayong-tong/mt.jpeg");
+}
+
+.img2 {
+    background-image: url("Elements/Marayong-tong/mt1.jpg");
+}
+
+.img3 {
+    background-image: url("Elements/Marayong-tong/mt2.jpg");
+}
+
+.img4 {
+    background-image: url("img_nature.jpg");
+}
+
+.img5 {
+    background-image: url("img_forest.jpg");
+}
+
+.img6 {
+    background-image: url("img_woods.jpg");
+}
