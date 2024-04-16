@@ -1,3 +1,21 @@
-h1 {
-    color: magenta;
+.tour-head {
+    display: flex;
+
+
+
+    background-color: aqua;
+}
+
+.tour-head-title {
+    margin: 2%;
+
+}
+
+.tour-head-pic {
+    margin-left: 60%;
+}
+
+.tour-head-pic-img1 {
+    height: 40%;
+
 }
